@@ -1,5 +1,5 @@
 import './Card.css'
-function Card(props){
+const Card=(props)=>{
     let style ='card ';
     style += props.className;
     return(
