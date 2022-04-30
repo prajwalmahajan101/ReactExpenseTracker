@@ -5,3 +5,10 @@
     width: 50rem;
     max-width: 95%;
 }
+
+p{
+    color: white;
+    padding: 0 1rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
